@@ -18,7 +18,7 @@
 
 ## Description
 
-Keep track of all your workouts for the week using Budget Tracker. Budget tracker logs all of your workouts for the week and displays them on your dashboard through 4 different graphs.
+Keep track of everything you spend and earn to help you save and keep on top of your finances.
 
 ## Table of Contents
 
@@ -32,7 +32,6 @@ Keep track of all your workouts for the week using Budget Tracker. Budget tracke
 ## Installation
 
 1. Clone repository. 
-2. Check in routes/api-routes and comment in block of code if you want the database to be prepopulated with dummy values
 3. npm install
 4. node server.js
 
