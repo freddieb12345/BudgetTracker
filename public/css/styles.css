@@ -1,7 +1,14 @@
 body {
+  margin-top: 3em;
   font-size: 120%;
   font-family: Arial;
 }
+
+nav {
+  margin: auto;
+}
+
+
 
 button, input {
   font-size: 100%;
